@@ -1,0 +1,14 @@
+{
+  "name": "hello_wasm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mkusaka/hello_wasm.git",
+  "author": "mkusaka <hinoshita1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "serve": "http-server ."
+  }
+}
